@@ -61,4 +61,4 @@ Lots of resources are available from each provider of common `git` platforms wit
 + [Poetry](https://python-poetry.org)
 + [Python Speed](https://pythonspeed.com/docker/)
 
-Also, for even more detail, see *Bootstrapping Your Local Python Environment*, by Calvin Hendryx-Parker, PyCon US 2022 (Link TBD)
+Also, for even more detail, see *Bootstrapping Your Local Python Environment*, by Calvin Hendryx-Parker, PyCon US 2022 ([youtube](https://www.youtube.com/watch?v=-YEUFGFHWgQ))
