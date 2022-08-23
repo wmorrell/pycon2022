@@ -10,7 +10,7 @@ Here's a bunch of resources referenced in my PyCon US 2022 talk!
 + *Static Sites with Sphinx and Markdown*, by Paul Everitt, PyCon US 2021 ([youtube](https://www.youtube.com/watch?v=YclYtM56qjo))
 + [Sphinx](https://www.sphinx-doc.org/en/master/)
 + [MkDocs](https://www.mkdocs.org)
-+ *Write Docs Devs Love*, by Mason Egger, PyCon US 2022 (Link TBD)
++ *Write Docs Devs Love*, by Mason Egger, PyCon US 2022 ([youtube](https://www.youtube.com/watch?v=9WobKoE9OPI))
 
 ## Version Control
 
