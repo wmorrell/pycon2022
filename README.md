@@ -46,7 +46,7 @@ Here's a bunch of resources referenced in my PyCon US 2022 talk!
 + [`yapf`](https://github.com/google/yapf)
 + [`pre-commit`](https://pre-commit.com)
 
-Also, a special highlight for tools for code quality highlighted by John Reese in their PyCon 2022 talk, *Open Source on Easy Mode* (Link TBD):
+Also, a special highlight for tools for code quality highlighted by Amethyst Reese in her PyCon 2022 talk, *Open Source on Easy Mode* ([youtube](https://www.youtube.com/watch?v=lSqyKoPYtr0)):
 + [`usort`](https://usort.readthedocs.io/en/stable/index.html)
 + [`ufmt`](https://ufmt.omnilib.dev/en/latest/)
 + [`thx`](https://thx.omnilib.dev)
